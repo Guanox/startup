@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698246380057",
+    "firebase_url": "https://startup-f9ebd-default-rtdb.firebaseio.com",
+    "project_id": "startup-f9ebd",
+    "storage_bucket": "startup-f9ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698246380057:android:c9c9789fc1c5b8c3a9c888",
+        "android_client_info": {
+          "package_name": "com.printz.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698246380057-be2ooa7j9l9qan6vslqm6r4geq0smp03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.printz.startup",
+            "certificate_hash": "f470f86a56c2bca6d3cac83251150986c8adf0c2"
+          }
+        },
+        {
+          "client_id": "698246380057-lpnsh6n7d70d87523vae1qhm6ord1f35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMI-LIUZCLuetGa4bIqzh1OcY3f1PObTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698246380057-lpnsh6n7d70d87523vae1qhm6ord1f35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
